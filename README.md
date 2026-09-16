@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · qLniPYUn -->
-## Notification 1/2
-Round: Round 1
-To: holidaywhimsy@yahoo.com, lkmann1002@gmail.com
-At: 2026-09-16 14:33:17
-Id: qLniPYUn
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: audonebeth@comcast.net, mayjessee@hotmail.com
+At: 2026-09-16 14:33:25
+Id: gbbhMiMe
